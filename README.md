@@ -11,7 +11,9 @@ The repository contains 2 sample PDFs:
 
 # usage
 Ensure that your CV is named input.pdf
+
 `pip install -r requirements.txt`
+
 `python cv-warfare.py`
 
 # credits
